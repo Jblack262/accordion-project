@@ -68,7 +68,7 @@ html {
   padding-inline: 2rem;
 }
 .accordion .content.open {
-  max-height: 10rem;
+  max-height: 20rem;
   border-top: 5px solid #fffaf1;
 }
 .accordion .content.open p {
